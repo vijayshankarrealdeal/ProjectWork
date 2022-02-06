@@ -43,3 +43,8 @@ only for windows
 5) run the server on localhost or host on cloud
 
 6) Run Flutter app and check the result
+
+![Alt text](1.png?raw=true "")
+![Alt text](2.png?raw=true "")
+![Alt text](3.png?raw=true "")
+![Alt text](4.png?raw=true "")
